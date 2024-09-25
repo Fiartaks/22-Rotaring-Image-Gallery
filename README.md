@@ -19,4 +19,5 @@
 💡 JavaScript kullanılarak dönen bir galeri oluşturuldu.
 🖼️ Resimler için basit bir HTML yapısı kuruldu.
 ✨ Konfor artırıcı butonlar ve kullanıcı etkileşimleri eklendi.
+🎥 https://picsum.photos/ ile resimler rastgele eklendi.
 
