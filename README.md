@@ -9,15 +9,15 @@ Bu projede, galeride bulunan resimlerin tamamının 45 derecelik bir perspektifl
 
 
  ## Özellikler
-🚀 Basit ve kullanıcı dostu arayüz
-⏪ Önceki ve sonraki resimler arasında geçiş yapabilme
-⏰ Otomatik olarak dönen galeri
+- 🚀 Basit ve kullanıcı dostu arayüz
+- ⏪ Önceki ve sonraki resimler arasında geçiş yapabilme
+- ⏰ Otomatik olarak dönen galeri
 
 
  ## Yapılanlar
-🌈 CSS ile şık bir arayüz tasarlandı.
-💡 JavaScript kullanılarak dönen bir galeri oluşturuldu.
-🖼️ Resimler için basit bir HTML yapısı kuruldu.
-✨ Konfor artırıcı butonlar ve kullanıcı etkileşimleri eklendi.
-🎥 https://picsum.photos/ ile resimler rastgele eklendi.
+- [x] 🌈 CSS ile şık bir arayüz tasarlandı.
+- [x] 💡 JavaScript kullanılarak dönen bir galeri oluşturuldu.
+- [x] 🖼️ Resimler için basit bir HTML yapısı kuruldu.
+- [x] ✨ Konfor artırıcı butonlar ve kullanıcı etkileşimleri eklendi.
+- [x] 🎥 https://picsum.photos/ ile resimler rastgele eklendi.
 
